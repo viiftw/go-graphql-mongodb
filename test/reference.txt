@@ -1,0 +1,5 @@
+https://tutorialedge.net/golang/go-graphql-beginners-tutorial/
+http://www.jancarloviray.com/blog/go-mongodb-simple-example/
+https://stackoverflow.com/questions/42520663/how-to-send-graphql-query-by-postman
+https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
+https://asten.io/go-graphql-getting-started-c98e491015b6
